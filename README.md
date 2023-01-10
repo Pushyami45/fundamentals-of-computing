@@ -1,2 +1,2 @@
 # fundamentals-of-computing
-number systm
+number system
