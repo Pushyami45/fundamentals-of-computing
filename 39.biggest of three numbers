@@ -1,0 +1,12 @@
+echo "enter the first number"
+read n1
+echo "enter the second number"
+read n2
+sum=$((n1+n2))
+echo "sum of the numbers is:$sum"
+sub=$((n1-n2))
+echo "the difference of two numbers is:$sub"
+mul=$((n1*n2))
+echo "product of two numbers is:$mul"
+div=$((n1/n2))
+echo "quo of two numbers is:$div"
